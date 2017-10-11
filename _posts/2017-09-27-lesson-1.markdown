@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Lesson 1"
+date:   2017-09-27 14:42:31 +0700
+disqus: 
+  shortname: my_disqus_shortname
+categories: arabic  grammar quranic alphabet
+---
+
+This lesson is about the Arabic Alphabet (حروف الہجاء)
+1. With a minor disagreement on the number of alphabet following table shows
+the Arabic alphabet in the order as they would appear in dictionary.
+2. Some count the alphabet Alif (ا) and Hamza (ء) as separate and their count of
+the alphabet is 29, others consider them to be the same and count the number of alphabet as 28.
+
+
+      | خ | ح | ج | ث | ت | ب | ا |  
+      | ص | ش | س | ز | ر | ذ | د |  
+      | ق | ف | غ | ع | ظ | ط | ض |  
+      | ی | و | ہ | ن | م | ل | ک |  
+
+3. Pronounciation of the arabic alphabet is slightly different than as they are pronounced in Urdu see the related [youtube video link](https://www.youtube.com/watch?v=OR_UEH4QrHI&list=PLfBhp8Gb7w6YFjZw_0Y7R8w2aY8LeVw83) for detail.
