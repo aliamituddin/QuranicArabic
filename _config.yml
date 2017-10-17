@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Quranic Arabic Grammar Notes affiliated with the basic level course
   on arabic grammar taught by Aamir Sohail of Khuddam ul Quran Academy visit (http://www.khuddam-ul-quran.com/)
 baseurl: "/QuranicArabic" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://beyond2013.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OddFeb
 github_username:  beyond2013
 
