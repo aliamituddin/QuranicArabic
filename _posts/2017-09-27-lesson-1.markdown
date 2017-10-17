@@ -2,8 +2,7 @@
 layout: post
 title:  "Lesson 1"
 date:   2017-09-27 14:42:31 +0700
-disqus: 
-  shortname: my_disqus_shortname
+comments: true
 categories: arabic  grammar quranic alphabet
 ---
 
