@@ -14,7 +14,9 @@
     </main>
 
     {% include footer.html %}
-    {% include disqus_comments.html %}
-  </body>
+		{% if page.comments %}
+    {% include facebook_comments.html %}
+		{% endif %}
+		</body>
 
 </html>

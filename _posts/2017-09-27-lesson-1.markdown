@@ -19,3 +19,10 @@ the alphabet is 29, others consider them to be the same and count the number of 
       | ی | و | ہ | ن | م | ل | ک |  
 
 3. Pronounciation of the arabic alphabet is slightly different than as they are pronounced in Urdu see the related [youtube video link](https://www.youtube.com/watch?v=OR_UEH4QrHI&list=PLfBhp8Gb7w6YFjZw_0Y7R8w2aY8LeVw83) for detail.
+
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
